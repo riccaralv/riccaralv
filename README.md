@@ -2,7 +2,7 @@
 
 **Web Developer Student** (Digital Career Institute) 🌱
 
-If you want to reach me, just click [here](riccaralv@gmail.com) 📫
+If you want to reach me, just click [here](mailto:riccaralv@gmail.com) 📫
 
 <!--
 **riccaralv/riccaralv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
